@@ -1,0 +1,33 @@
+.header{ 
+	text-align:center;
+	font-size: 40px;
+	margin: 10px;
+	border: 1px solid black ;
+	
+}
+
+.sidebar{ 
+float: left;
+margin: 10px;
+font-size:20px;
+border: 1px solid black;
+padding:10px;
+}
+
+.content-area {
+	margin: 10px;
+	font-size: 30px;
+	float:right;
+	width: 80%;
+	text-align:left;
+	padding: 20px;
+	
+	
+}
+
+.footer{
+	margin: 10px;
+	font-size: 40px;
+	text-align: center;
+	clear: both;
+}
